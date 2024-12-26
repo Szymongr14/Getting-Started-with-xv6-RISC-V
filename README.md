@@ -1,2 +1,11 @@
-# Getting-Started-with-xv6-RISC-V
-This repository provides a beginner-friendly guide to xv6, a simple Unix-like teaching operating system, running on the RISC-V architecture. It includes detailed instructions, scripts, and resources to help users set up the environment, explore the architecture, debug xv6, and understand its core concepts.
+# Introduction to xv6 on RISC-V
+
+This repository provides a guide to understanding and working with **xv6** on the RISC-V architecture. Below are the links to the setup and learning scripts, available in both English and Polish.
+
+## PDF Scripts
+
+### English
+- [Introduction to xv6 on RISC-V (English)](introduction-xv6-riscv-en-v1.01.pdf)
+
+### Polish
+- [Wprowadzenie do xv6 na RISC-V (Polski)](wprowadzenie-xv6-riscv-pl-v1.01.pdf)
